@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "cover": "",
+      "about": "Sisters learn to live in gratitude for each other.",
+      "variation": 0
+    },
+    {
+      "id": 2,
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "cover": "",
+      "about": "Enter a dystopian future where books with ideas are dangerous, controlled and burned.",
+      "variation": 1
+    },
+    {
+      "id": 3,
+      "title": "Grapes of Wrath",
+      "author": "John Steinbeck",
+      "cover": "",
+      "about": "Thousands set out from the dust bowl to California in search of better fortunes",
+      "variation": 2,
+      "favorite": false
+    },
+    {
+      "id": 4,
+      "title": "To Kill a Mocking Bird",
+      "author": "Harper Lee",
+      "cover": "https://i.imgur.com/BPmn7bUm.jpg",
+      "about": "A girl learns to trust the wisdom of her father and not be dismayed by the prejudice around here.",
+      "variation": 0
+    },
+    {
+      "id": 5,
+      "title": "Moby Dick",
+      "author": "Hermann Melville",
+      "cover": "",
+      "about": "Man hunts whale with a vengeance. In the end, he's the last man stand. I guess he won.",
+      "variation": 1
+    },
+    {
+      "title": "Don't Close Your Eyes",
+      "author": "Lynessa Layne",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593626735l/54352941._SY475_.jpg",
+      "about": "Bartender, beach bunny and college track star known as Micro Machine, Kinsley Hayes most pressing priorities are having the lowest times on the stopwatch and choosing between internship before graduation.\\nAn encounter with a dicey stranger jolts Kinsley into the real world while she's left mystified by her magnetism to the edgy rogue.\\nWho is he? Will she ever see him again?\\n\\nKlive King reappears in Kinsley's life as a secret admirer, tempting and teasing, rekindling their irresistible love-hate chemistry at the same time as her high school crush home from war, Jase Taylor, reveals his repressed longing to be more than friends.\\n\\nWhat's a girl to do?\\n\\nWhen nefarious biker gang, Inferno, set their sights on the wrong girl, Kinsley inadvertently draws both Klive and Jase into a battle to protect her while also dueling for her heart.\\n\\nSet in the tropical locales of Florida, this dual POV suspenseful romance follows Klive, Kinsley and Jase into the beginning of their tumultuous love triangle and perilous conflicts between good, evil, love, hate and the bounds they break when pushed to their limits.",
+      "variation": 2,
+      "favorite": false,
+      "id": 7
+    }
+  ]
+}
