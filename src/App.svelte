@@ -1,9 +1,9 @@
 <script>
 	import { Route, Router } from 'svelte-routing';
 
-	import Library from './library/Library.svelte';
-	import Detail from './library/Detail.svelte';
-	import Create from './create/Create.svelte';
+	import Library from './pages/Library.svelte';
+	import Detail from './pages/Detail.svelte';
+	import Create from './pages/Create.svelte';
 
 	export let url = '';
 </script>
